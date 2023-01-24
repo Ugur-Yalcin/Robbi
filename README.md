@@ -1,8 +1,8 @@
 Robbi
 ======
 
-Laufroboter mit Arduino
-Die Teile wurden mit einem 3D-Drucker hergestellt.
+##### Laufroboter mit Arduino
+##### Die Teile wurden mit einem 3D-Drucker hergestellt
 
 Repo-Struktur
 --------------
@@ -11,7 +11,7 @@ Repo-Struktur
 
 Komponenten
 ----------
-* Arduino UNO oder Nano V3.0
+* Arduino UNO oder Mini
 * 11x Micro SG90 Servo Motor 
 
 Fotos
