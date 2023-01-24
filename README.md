@@ -2,6 +2,7 @@ Robbi
 ======
 
 Laufroboter mit Arduino
+Die Teile wurden mit einem 3D-Drucker hergestellt.
 
 Repo-Struktur
 --------------
