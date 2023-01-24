@@ -18,6 +18,8 @@ Fotos
 -----
 ![](https://www.dropbox.com/s/rvulwijgetuqg15/Robot1.jpg?raw=1)
 
+![](https://www.dropbox.com/s/22gpels988xjnrl/Robot2.jpg?raw=1)
+
 ![](https://www.dropbox.com/s/s93elnujm0axgtr/Fusse.jpg?raw=1)
 
 
