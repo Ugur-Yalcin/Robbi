@@ -1,5 +1,7 @@
 Robbi
 ======
+##### Laufroboter mit Arduino
+##### Die Teile wurden mit einem 3D-Drucker hergestellt
 
 Fotos
 -----
@@ -9,9 +11,6 @@ Fotos
 
 ![](https://www.dropbox.com/s/s93elnujm0axgtr/Fusse.jpg?raw=1)
 
-
-##### Laufroboter mit Arduino
-##### Die Teile wurden mit einem 3D-Drucker hergestellt
 
 Repo-Struktur
 --------------
